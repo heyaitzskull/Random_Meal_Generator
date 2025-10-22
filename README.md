@@ -46,10 +46,6 @@ Here's a walkthrough of implemented user stories:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2025] [Prativa Khatiwada]
