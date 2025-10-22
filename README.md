@@ -2,7 +2,7 @@
 
 Submitted by: **Prativa Khatiwada**
 
-This web app: **insert description**
+This web app: **A fun web app that fetches random meals using TheMealDB API. Users can discover new dishes along with their cuisine and top 3 ingredients, and “ban” any items or cuisines they don’t like to ensure future meals exclude them. It also keeps a history of all generated meals.**
 
 Time spent: **5** hours spent in total
 
